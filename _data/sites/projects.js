@@ -21,5 +21,6 @@ module.exports = {
 		"https://exercise.now.sh/",
 		"https://mypass.bokasolutions.com/",
 		"https://justtheweather.vercel.app/",
+	 	"https://11ty-forestry-event.vercel.app",
 	]
 };
