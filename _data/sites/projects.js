@@ -1,6 +1,6 @@
 module.exports = {
 	name: "Projects",
-	description: "Project websites and applciations",
+	description: "Project websites and applications",
 	// skip if localhost
 	skip: !process.env.CONTEXT,
 	options: {
